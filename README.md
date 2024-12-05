@@ -1,12 +1,9 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/0du32fg9flol63to?svg=true)](https://ci.appveyor.com/project/InoriRus/kyty) [![CI](https://github.com/InoriRus/Kyty/actions/workflows/ci.yml/badge.svg)](https://github.com/InoriRus/Kyty/actions/workflows/ci.yml)
+[![Build status](https://ci.appveyor.com/api/projects/status/0xdrlreloetyyt1c?svg=true)](https://ci.appveyor.com/project/System32Booster/pcsxv) [![CI](https://github.com/InoriRus/Kyty/actions/workflows/ci.yml/badge.svg)](https://github.com/InoriRus/Kyty/actions/workflows/ci.yml)
 
-# Kyty
-## PS4 & PS5 emulator
+# PCSXV
+## Kytv revival project (Placeholder)
 
 ---
-The project is in its early stage.
-
-[Vladimir M](mailto:inorirus@gmail.com)
 
 Licensed under the MIT license.
 
@@ -60,17 +57,3 @@ MSVC compiler (cl.exe) is not supported!
 External dependencies:
 * Vulkan SDK 1.2.198.1
 * Qt 5.15.0
-
-## Donate
-
-If you would like to support the project:
-
-- Bitcoin: bc1qd66pjk3xj3hzvm379uxy470n533nnt2deenpea
-
-<img src="https://user-images.githubusercontent.com/7149418/181066559-7f35befb-ad23-480c-9a75-3b663b1b9957.png" width="200">
-
-## Hire me
-
-**I'm available for hiring.** If you need C++ developer, please take a look at my [profile](https://github.com/InoriRus) and contact me by email
-
-**Я в поисках работы.** Если вам нужен разработчик C++, пишите мне на почту.
