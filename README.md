@@ -2,6 +2,7 @@
 
 # PCSXV
 ## Kytv revival project (Placeholder)
+![PCSXV](/img/PCSXV.png)
 
 ---
 
